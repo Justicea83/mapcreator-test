@@ -8,6 +8,7 @@
 - Replace `MAPCREATOR_CLIENT_SECRET` with the client_secret
 - Run `npm install`
 - Run `composer install`
+- Run `npm run dev` or `npm run build`
 - Ensure docker desktop is running
 - Run `./vendor/bin/sail artisan migrate`
 - Run `./vendor/bin/sail artisan db:seed`
