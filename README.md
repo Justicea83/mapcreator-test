@@ -9,6 +9,6 @@
 - Run `npm install`
 - Run `composer install`
 - Ensure docker desktop is running
-- Run `vendor/bin/sail artisan migrate`
-- Run `vendor/bin/sail artisan db:seed`
-- Run `vendor/bin/sail up`
+- Run `./vendor/bin/sail artisan migrate`
+- Run `./vendor/bin/sail artisan db:seed`
+- Run `./vendor/bin/sail up`
