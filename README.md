@@ -13,3 +13,8 @@
 - Run `./vendor/bin/sail artisan migrate`
 - Run `./vendor/bin/sail artisan db:seed`
 - Run `./vendor/bin/sail up`
+
+
+### Login Credentials
+Email: `test@example.com`
+Password: `assword`
