@@ -17,4 +17,4 @@
 
 ### Login Credentials
 Email: `test@example.com`
-Password: `assword`
+Password: `password`
