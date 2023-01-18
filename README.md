@@ -3,6 +3,7 @@
 - Create a new file `.env`
 - Copy the contents of `.env.example` to `.env`
 - Create a new API Client from https://api.mapcreator.io/auth/clients
+- The callback URL of the client should be the `http[s]://domain/callback`
 - Open `.env`
 - Replace `MAPCREATOR_CLIENT_ID` with the client_id
 - Replace `MAPCREATOR_CLIENT_SECRET` with the client_secret
